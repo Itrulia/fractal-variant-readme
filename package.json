@@ -1,0 +1,31 @@
+{
+  "name": "@itrulia/fractal-variant-readme",
+  "version": "0.0.0",
+  "description": "Fractal plugin that allows you to create readmes for your variants.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Itrulia/fractal-variant-readme.git"
+  },
+  "keywords": [
+    "fractal",
+    "readme",
+    "markdown",
+    "marked"
+  ],
+  "author": "Karl Merkli <karlmerkli@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Itrulia/fractal-variant-readme/issues"
+  },
+  "homepage": "https://github.com/Itrulia/fractal-variant-readme#readme",
+  "peerDependencies": {
+    "@frctl/fractal": "^2.0.0-beta.0"
+  },
+  "dependencies": {
+    "marked": "^0.3.16"
+  }
+}
