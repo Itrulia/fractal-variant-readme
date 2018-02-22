@@ -1,6 +1,6 @@
 {
   "name": "@itrulia/fractal-variant-readme",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Fractal plugin that allows you to create readmes for your variants.",
   "main": "index.js",
   "scripts": {
