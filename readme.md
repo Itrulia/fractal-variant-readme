@@ -74,10 +74,8 @@ To do this you will need to do the following steps:
 
 ## Features
 
-What's all the bells and whistles this project can perform?
-* What's the main functionality
-* You can also do another thing
-* If you get really randy, you can even do this
+* Allows you to add documentation for variants
+* Powered by [marked](https://github.com/markedjs/marked)
 
 ## Configuration
 
